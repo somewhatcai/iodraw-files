@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UUOMvondV5X2R8530BUF-3" value="&lt;span id=&quot;boardmix-app-data-meta&quot;&gt;&lt;/span&gt;&lt;span id=&quot;boardmix-data-meta&quot;&gt;&lt;/span&gt;&lt;span id=&quot;boardmix-data-buffer&quot;&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="720" width="30" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
