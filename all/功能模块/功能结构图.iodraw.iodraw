@@ -247,8 +247,8 @@
             <mxPoint x="350.21000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cPTp7iqK-h1vGcxGWZfc-1" value="AI&lt;div&gt;生&lt;/div&gt;&lt;div&gt;题&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="lYUz9Slk14qZSU-WvJrB-132">
-          <mxGeometry x="360" y="30" width="40" height="100" as="geometry" />
+        <mxCell id="cPTp7iqK-h1vGcxGWZfc-1" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;中&lt;/div&gt;&lt;div&gt;心&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="720" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
