@@ -1,0 +1,316 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="v8GDccojLobORUyk3S1o">
+    <mxGraphModel dx="4411" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-2" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.003;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BDp5VIkG83Jywx1-tJpQ-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="190" as="sourcePoint" />
+            <mxPoint x="160" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-3" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.003;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BDp5VIkG83Jywx1-tJpQ-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="120" as="sourcePoint" />
+            <mxPoint x="239" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-5" value="课程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="140" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-6" value="获取课程分类" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="105" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-7" value="获取课程描述" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="105" y="290" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-8" value="获取课程评价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=2;" parent="1" vertex="1">
+          <mxGeometry x="105" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-9" value="获取课程视频位置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="95" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-12" value="获取课程标题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="105" y="255" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-13" value="评价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="295.48" y="280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580.96" y="122.5" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-16" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.003;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BDp5VIkG83Jywx1-tJpQ-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740.96" y="192.5" as="sourcePoint" />
+            <mxPoint x="660.96" y="92.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-17" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.003;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BDp5VIkG83Jywx1-tJpQ-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900.96" y="122.5" as="sourcePoint" />
+            <mxPoint x="739.96" y="122.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-18" value="评价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="630.96" y="142.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-19" value="获取评价者ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="605.96" y="222.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-20" value="获取评价内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="605.96" y="292.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-21" value="获取评价时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="605.96" y="332.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-23" value="跑者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="790.96" y="280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-24" value="获取对应课程ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="600.96" y="257.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1110.96" y="122.5" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-30" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.003;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BDp5VIkG83Jywx1-tJpQ-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1270.96" y="192.5" as="sourcePoint" />
+            <mxPoint x="1190.96" y="92.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-31" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.003;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BDp5VIkG83Jywx1-tJpQ-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1430.96" y="122.5" as="sourcePoint" />
+            <mxPoint x="1269.96" y="122.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-32" value="跑步计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1150.96" y="142.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-33" value="获取计划创建时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1125.96" y="222.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-34" value="获取计划内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1135.96" y="292.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-35" value="获取关联的跑者ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1125.96" y="332.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-36" value="跑者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="272.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-37" value="获取计划标题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1135.96" y="257.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80.96000000000001" y="500" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-42" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.003;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BDp5VIkG83Jywx1-tJpQ-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240.96" y="570" as="sourcePoint" />
+            <mxPoint x="160.96" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-43" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.003;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BDp5VIkG83Jywx1-tJpQ-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.96" y="500" as="sourcePoint" />
+            <mxPoint x="239.96" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-44" value="观看记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120.96000000000001" y="520" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-45" value="获取观看时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="105.96000000000001" y="600" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-46" value="获取课程ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="115.96000000000001" y="670" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-49" value="课程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="300" y="635" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-50" value="获取对应跑者ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100.96000000000001" y="635" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="581.9200000000001" y="500" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-54" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.003;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BDp5VIkG83Jywx1-tJpQ-53" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="741.9200000000001" y="570" as="sourcePoint" />
+            <mxPoint x="661.9200000000001" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-55" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.003;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BDp5VIkG83Jywx1-tJpQ-53" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="901.9200000000001" y="500" as="sourcePoint" />
+            <mxPoint x="740.9200000000001" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-56" value="跑步记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="621.9200000000001" y="520" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-57" value="获取跑步时长" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="606.9200000000001" y="600" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-58" value="获取消耗卡路里" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="601.9200000000001" y="710" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-59" value="跑者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="800.96" y="635" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-60" value="获取跑步配速" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="606.9200000000001" y="635" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-61" value="获取跑步的时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="601.9200000000001" y="750" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1111.92" y="500" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-63" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.003;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BDp5VIkG83Jywx1-tJpQ-62" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1271.92" y="570" as="sourcePoint" />
+            <mxPoint x="1191.92" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-64" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.003;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BDp5VIkG83Jywx1-tJpQ-62" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1431.92" y="500" as="sourcePoint" />
+            <mxPoint x="1270.92" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-65" value="跑者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1161.92" y="520" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-66" value="获取用户头像" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1136.92" y="600" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-67" value="获取用户昵称" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1136.92" y="670" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-69" value="获取用户性别" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1136.92" y="635" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDp5VIkG83Jywx1-tJpQ-71" value="获取登录状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1135.96" y="710" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IGHpt_GPD_LdaSsedWjp-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.85;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.29;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BDp5VIkG83Jywx1-tJpQ-8" target="BDp5VIkG83Jywx1-tJpQ-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195.96" y="386.43" as="sourcePoint" />
+            <mxPoint x="305.48" y="337.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGHpt_GPD_LdaSsedWjp-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.2;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BDp5VIkG83Jywx1-tJpQ-36" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="350" as="sourcePoint" />
+            <mxPoint x="1290" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGHpt_GPD_LdaSsedWjp-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.009;exitY=0.429;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BDp5VIkG83Jywx1-tJpQ-46" target="BDp5VIkG83Jywx1-tJpQ-49" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="690" as="sourcePoint" />
+            <mxPoint x="250" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGHpt_GPD_LdaSsedWjp-6" value="获取跑者ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="615.96" y="670" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IGHpt_GPD_LdaSsedWjp-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.181;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BDp5VIkG83Jywx1-tJpQ-59" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="684.86" as="sourcePoint" />
+            <mxPoint x="810.9600000000003" y="659.9983940805702" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQ3U58797bqz7tFj8vvQ-4" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;entryX=0.181;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BDp5VIkG83Jywx1-tJpQ-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="691.44" y="240" as="sourcePoint" />
+            <mxPoint x="800" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQ3U58797bqz7tFj8vvQ-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;评价相关数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="220" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQ3U58797bqz7tFj8vvQ-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;获取跑者头像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="730.96" y="242.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQ3U58797bqz7tFj8vvQ-11" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;课程位置&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="235.48" y="635" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wcAxdrAMhBVPF0SRJrdz-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;关联跑者&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="735.96" y="635" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-2" value="课程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="790.96" y="310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-3" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;entryX=0.181;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="BDp5VIkG83Jywx1-tJpQ-24" target="XG32Y7ICSzr2FGIO3Ae0-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="695.96" y="277.5" as="sourcePoint" />
+            <mxPoint x="804.52" y="332.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;关联课程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="730" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-7" value="跑者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="300" y="600" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BDp5VIkG83Jywx1-tJpQ-50" target="XG32Y7ICSzr2FGIO3Ae0-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="653" as="sourcePoint" />
+            <mxPoint x="318" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;关联跑者&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="235.48" y="605" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;关联跑者&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1265" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-21" value="&lt;span style=&quot;background-color: initial;&quot;&gt;关联用户的跑步记录、&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;计划、观&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;看历史。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1116.92" y="745" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-23" value="跑步记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="630" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-24" value="观看记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="675" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-25" value="跑步计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="715" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.143;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.751;exitY=0.07;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XG32Y7ICSzr2FGIO3Ae0-21" target="XG32Y7ICSzr2FGIO3Ae0-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1215" y="750" as="sourcePoint" />
+            <mxPoint x="1265" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.143;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.808;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="XG32Y7ICSzr2FGIO3Ae0-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1235.9600000000003" y="755" as="sourcePoint" />
+            <mxPoint x="1335.92" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.143;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="XG32Y7ICSzr2FGIO3Ae0-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="760" as="sourcePoint" />
+            <mxPoint x="1340" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;关联跑步&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;记录&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1260" y="640" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;关联观看&lt;/font&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;记录&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1265" y="695" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XG32Y7ICSzr2FGIO3Ae0-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;关联跑步计划&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1265" y="740" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
