@@ -4,40 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lYUz9Slk14qZSU-WvJrB-3" value="董事长" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="220" width="130" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="lYUz9Slk14qZSU-WvJrB-4" value="总经理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="-160" y="350" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lYUz9Slk14qZSU-WvJrB-5" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;entryX=0.469;entryY=1.017;entryPerimeter=0;" edge="1" parent="1" target="lYUz9Slk14qZSU-WvJrB-3">
+        <mxCell id="lYUz9Slk14qZSU-WvJrB-5" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;entryX=0.469;entryY=1.017;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-99" y="350" as="sourcePoint" />
-            <mxPoint x="-50" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lYUz9Slk14qZSU-WvJrB-7" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-100" y="320" as="sourcePoint" />
-            <mxPoint x="80" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lYUz9Slk14qZSU-WvJrB-8" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;exitX=0.385;exitY=0.011;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80.05000000000018" y="350.6600000000001" as="sourcePoint" />
-            <mxPoint x="80" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lYUz9Slk14qZSU-WvJrB-11" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;entryX=0.286;entryY=1.039;entryPerimeter=0;exitX=0.536;exitY=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="67.15999999999985" y="450" as="sourcePoint" />
-            <mxPoint x="67.17999999999984" y="412.3399999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lYUz9Slk14qZSU-WvJrB-12" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;entryX=0.286;entryY=1.039;entryPerimeter=0;exitX=0.536;exitY=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130.14285714285688" y="449.95238095238096" as="sourcePoint" />
-            <mxPoint x="130.14285714285688" y="412.33333333333326" as="targetPoint" />
+            <mxPoint x="-99.0300000000002" y="281.02" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lYUz9Slk14qZSU-WvJrB-13" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;entryX=0.462;entryY=1;entryPerimeter=0;" edge="1" parent="1" target="lYUz9Slk14qZSU-WvJrB-4">
