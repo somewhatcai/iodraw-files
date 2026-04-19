@@ -46,12 +46,6 @@
         <mxCell id="lYUz9Slk14qZSU-WvJrB-38" value="模&lt;div&gt;拟&lt;/div&gt;&lt;div&gt;面&lt;/div&gt;&lt;div&gt;试&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="-170" y="720" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="lYUz9Slk14qZSU-WvJrB-40" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-80" y="700" as="sourcePoint" />
-            <mxPoint x="20" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lYUz9Slk14qZSU-WvJrB-41" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="720" as="sourcePoint" />
