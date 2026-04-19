@@ -91,31 +91,16 @@
             <mxPoint x="300" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lYUz9Slk14qZSU-WvJrB-20" value="业务部" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;fontFamily=Garamond;fontSize=18;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="620" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lYUz9Slk14qZSU-WvJrB-21" value="品保部" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;fontFamily=Garamond;fontSize=18;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="620" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lYUz9Slk14qZSU-WvJrB-22" value="营运部" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;fontFamily=Garamond;fontSize=18;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="620" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lYUz9Slk14qZSU-WvJrB-23" value="厨务部" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;fontFamily=Garamond;fontSize=18;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="60" y="620" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lYUz9Slk14qZSU-WvJrB-24" value="物流部" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;fontFamily=Garamond;fontSize=18;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="620" width="120" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="lYUz9Slk14qZSU-WvJrB-25" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-410" y="700" as="sourcePoint" />
             <mxPoint x="-330" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lYUz9Slk14qZSU-WvJrB-26" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;entryX=0.5;entryY=1;entryPerimeter=0;" edge="1" parent="1" target="lYUz9Slk14qZSU-WvJrB-20">
+        <mxCell id="lYUz9Slk14qZSU-WvJrB-26" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;entryX=0.5;entryY=1;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-370" y="700" as="sourcePoint" />
-            <mxPoint x="-350" y="710" as="targetPoint" />
+            <mxPoint x="-370" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lYUz9Slk14qZSU-WvJrB-27" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" edge="1" parent="1">
