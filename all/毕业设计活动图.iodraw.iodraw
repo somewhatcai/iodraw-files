@@ -85,6 +85,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ulKGtjiTJ9nqPKSxC96Q-72" value="上/下一题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="145" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="1c1d494c118603dd-3" value="&lt;font style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;系统&lt;/font&gt;" style="swimlane;html=1;startSize=40;" parent="1" vertex="1">
           <mxGeometry x="290" y="40" width="250" height="970" as="geometry" />
         </mxCell>
