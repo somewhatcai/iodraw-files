@@ -114,13 +114,13 @@
         <mxCell id="ulKGtjiTJ9nqPKSxC96Q-56" value="显示对应分类题库题目列表" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-3">
           <mxGeometry x="75" y="350" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ulKGtjiTJ9nqPKSxC96Q-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;entryX=0.995;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1c1d494c118603dd-3">
+        <mxCell id="ulKGtjiTJ9nqPKSxC96Q-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1c1d494c118603dd-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="134.56999999999994" y="380" as="sourcePoint" />
-            <mxPoint x="-81" y="416.1700000000001" as="targetPoint" />
+            <mxPoint x="-70" y="416" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="120" y="380" />
-              <mxPoint x="120" y="416" />
+              <mxPoint x="130" y="380" />
+              <mxPoint x="130" y="416" />
             </Array>
           </mxGeometry>
         </mxCell>
