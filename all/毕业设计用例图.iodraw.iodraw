@@ -56,7 +56,7 @@
         <mxCell id="ntTJmJCmJZTb7EMGH7qZ-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=10;" parent="Ocwjv-4tlcVF7WvQawNC-2" vertex="1">
           <mxGeometry x="215" y="80" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ntTJmJCmJZTb7EMGH7qZ-30" value="用户名登录" style="ellipse;whiteSpace=wrap;html=1;" parent="Ocwjv-4tlcVF7WvQawNC-2" vertex="1">
+        <mxCell id="ntTJmJCmJZTb7EMGH7qZ-30" value="密码验证" style="ellipse;whiteSpace=wrap;html=1;" parent="Ocwjv-4tlcVF7WvQawNC-2" vertex="1">
           <mxGeometry x="335" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ntTJmJCmJZTb7EMGH7qZ-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.594;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;dashed=1;entryPerimeter=0;" parent="Ocwjv-4tlcVF7WvQawNC-2" target="ntTJmJCmJZTb7EMGH7qZ-30" edge="1">
