@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="NlZPBP9faE50pz4n8MlA">
-    <mxGraphModel dx="996" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1716" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,16 +77,10 @@
         <mxCell id="ntTJmJCmJZTb7EMGH7qZ-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=10;" parent="1" vertex="1">
           <mxGeometry x="620" y="10" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ntTJmJCmJZTb7EMGH7qZ-24" value="普通跑者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="-80" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ntTJmJCmJZTb7EMGH7qZ-25" value="会员跑者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="-80" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ntTJmJCmJZTb7EMGH7qZ-26" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-75;" parent="1" vertex="1">
           <mxGeometry x="104.3" y="-168.24" width="10.8" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="ntTJmJCmJZTb7EMGH7qZ-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ntTJmJCmJZTb7EMGH7qZ-24" target="ntTJmJCmJZTb7EMGH7qZ-26" edge="1">
+        <mxCell id="ntTJmJCmJZTb7EMGH7qZ-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="ntTJmJCmJZTb7EMGH7qZ-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="85" y="-80" as="sourcePoint" />
             <mxPoint x="110" y="-155.33" as="targetPoint" />
@@ -95,9 +89,9 @@
         <mxCell id="ntTJmJCmJZTb7EMGH7qZ-28" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-105;" parent="1" vertex="1">
           <mxGeometry x="124.20000000000002" y="-168.24" width="10.8" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="ntTJmJCmJZTb7EMGH7qZ-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ntTJmJCmJZTb7EMGH7qZ-25" target="ntTJmJCmJZTb7EMGH7qZ-28" edge="1">
+        <mxCell id="ntTJmJCmJZTb7EMGH7qZ-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="ntTJmJCmJZTb7EMGH7qZ-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="-80" as="sourcePoint" />
+            <mxPoint x="155" y="-80" as="sourcePoint" />
             <mxPoint x="175" y="-155.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
