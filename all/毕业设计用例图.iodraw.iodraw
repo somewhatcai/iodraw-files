@@ -46,18 +46,6 @@
         <mxCell id="ntTJmJCmJZTb7EMGH7qZ-32" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-10;" parent="Ocwjv-4tlcVF7WvQawNC-2" vertex="1">
           <mxGeometry x="215" y="30" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ocwjv-4tlcVF7WvQawNC-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-10;" vertex="1" parent="Ocwjv-4tlcVF7WvQawNC-2">
-          <mxGeometry x="225" y="40" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Ocwjv-4tlcVF7WvQawNC-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.594;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;dashed=1;entryPerimeter=0;" edge="1" target="Ocwjv-4tlcVF7WvQawNC-6" parent="Ocwjv-4tlcVF7WvQawNC-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="85" as="sourcePoint" />
-            <mxPoint x="330" y="145" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ocwjv-4tlcVF7WvQawNC-6" value="密码验证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Ocwjv-4tlcVF7WvQawNC-2">
-          <mxGeometry x="345" y="10" width="140" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="ntTJmJCmJZTb7EMGH7qZ-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=10;" parent="1" vertex="1">
           <mxGeometry x="635" y="55" width="80" height="20" as="geometry" />
         </mxCell>
@@ -79,6 +67,18 @@
         </mxCell>
         <mxCell id="ntTJmJCmJZTb7EMGH7qZ-19" value="忘记密码" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="755" y="135" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ocwjv-4tlcVF7WvQawNC-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-10;" vertex="1" parent="1">
+          <mxGeometry x="245" y="60" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ocwjv-4tlcVF7WvQawNC-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.594;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;dashed=1;entryPerimeter=0;" edge="1" target="Ocwjv-4tlcVF7WvQawNC-6" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="105" as="sourcePoint" />
+            <mxPoint x="350" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ocwjv-4tlcVF7WvQawNC-6" value="密码验证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="30" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
