@@ -342,9 +342,9 @@
             <mxPoint x="2520" y="-555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ocwjv-4tlcVF7WvQawNC-206" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" target="Ocwjv-4tlcVF7WvQawNC-204">
+        <mxCell id="Ocwjv-4tlcVF7WvQawNC-206" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" target="Ocwjv-4tlcVF7WvQawNC-204">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2400" y="-550" as="sourcePoint" />
+            <mxPoint x="2390" y="-560" as="sourcePoint" />
             <mxPoint x="2520" y="-415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
