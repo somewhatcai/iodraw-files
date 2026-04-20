@@ -255,7 +255,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ulKGtjiTJ9nqPKSxC96Q-167" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="720" y="60" width="500" height="970" as="geometry" />
+          <mxGeometry x="780" y="50" width="500" height="970" as="geometry" />
         </mxCell>
         <mxCell id="ulKGtjiTJ9nqPKSxC96Q-129" value="&lt;font style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;用户&lt;/font&gt;" style="swimlane;html=1;startSize=40;container=0;" vertex="1" parent="ulKGtjiTJ9nqPKSxC96Q-167">
           <mxGeometry width="250" height="970" as="geometry" />
