@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="3088" dy="2450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4411" dy="3029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,7 +255,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ulKGtjiTJ9nqPKSxC96Q-128" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="50" width="500" height="970" as="geometry" />
+          <mxGeometry x="720" y="60" width="500" height="970" as="geometry" />
         </mxCell>
         <mxCell id="ulKGtjiTJ9nqPKSxC96Q-129" value="&lt;font style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;用户&lt;/font&gt;" style="swimlane;html=1;startSize=40;" vertex="1" parent="ulKGtjiTJ9nqPKSxC96Q-128">
           <mxGeometry width="250" height="970" as="geometry" />
