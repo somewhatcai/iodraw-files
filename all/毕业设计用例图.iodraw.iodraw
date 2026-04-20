@@ -199,7 +199,7 @@
           <mxGeometry x="1330" y="-464" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ocwjv-4tlcVF7WvQawNC-61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;查看题库详情&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="-464" width="140" height="70" as="geometry" />
+          <mxGeometry x="1660" y="-290" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ocwjv-4tlcVF7WvQawNC-137" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;dashed=1;" edge="1" target="Ocwjv-4tlcVF7WvQawNC-139" parent="1" source="Ocwjv-4tlcVF7WvQawNC-60">
           <mxGeometry relative="1" as="geometry">
@@ -212,7 +212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ocwjv-4tlcVF7WvQawNC-139" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;浏览题库&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="-560" width="140" height="70" as="geometry" />
+          <mxGeometry x="1640" y="-380" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ocwjv-4tlcVF7WvQawNC-142" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;dashed=1;" edge="1" target="Ocwjv-4tlcVF7WvQawNC-144" parent="1" source="Ocwjv-4tlcVF7WvQawNC-60">
           <mxGeometry relative="1" as="geometry">
