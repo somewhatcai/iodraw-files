@@ -652,7 +652,7 @@
         <mxCell id="Ocwjv-4tlcVF7WvQawNC-318" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;选择面试类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4860" y="-910" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ocwjv-4tlcVF7WvQawNC-323" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;题库管理&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ocwjv-4tlcVF7WvQawNC-323" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;查看模拟面试历史&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4560" y="-310" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ocwjv-4tlcVF7WvQawNC-324" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;题目管理&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
