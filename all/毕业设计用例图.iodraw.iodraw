@@ -20,7 +20,7 @@
           <mxGeometry x="1280" y="-400" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ocwjv-4tlcVF7WvQawNC-63" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;选择题目练习&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1565" y="-500" width="140" height="70" as="geometry" />
+          <mxGeometry x="1575" y="-470" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ocwjv-4tlcVF7WvQawNC-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.594;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;dashed=1;entryPerimeter=0;" edge="1" target="Ocwjv-4tlcVF7WvQawNC-63" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -45,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ocwjv-4tlcVF7WvQawNC-68" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;搜索题目&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1565" y="-400" width="140" height="70" as="geometry" />
+          <mxGeometry x="1575" y="-340" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ntTJmJCmJZTb7EMGH7qZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;container=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="-690" width="550" height="420" as="geometry" />
