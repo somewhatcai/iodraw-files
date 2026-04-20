@@ -76,6 +76,9 @@
         <mxCell id="1c1d494c118603dd-24" value="Note" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=20;" parent="1c1d494c118603dd-3" vertex="1">
           <mxGeometry x="40" y="648" width="105" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="ulKGtjiTJ9nqPKSxC96Q-7" value="Object" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-3">
+          <mxGeometry x="-30" y="375" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="1c1d494c118603dd-4" value="Lane 3" style="swimlane;html=1;startSize=40;" parent="1" vertex="1">
           <mxGeometry x="540" y="40" width="250" height="970" as="geometry" />
         </mxCell>
