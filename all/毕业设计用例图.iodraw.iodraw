@@ -125,6 +125,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ocwjv-4tlcVF7WvQawNC-32" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ocwjv-4tlcVF7WvQawNC-22">
+          <mxGeometry x="-0.1563" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ocwjv-4tlcVF7WvQawNC-24" value="登录错误提示" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="-380" width="140" height="70" as="geometry" />
         </mxCell>
@@ -138,8 +143,33 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ocwjv-4tlcVF7WvQawNC-34" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ocwjv-4tlcVF7WvQawNC-26">
+          <mxGeometry x="-0.131" y="1" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ocwjv-4tlcVF7WvQawNC-28" value="忘记密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="-300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ocwjv-4tlcVF7WvQawNC-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.594;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;dashed=1;entryPerimeter=0;" edge="1" target="Ocwjv-4tlcVF7WvQawNC-31" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="-335" as="sourcePoint" />
+            <mxPoint x="965" y="-157.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ocwjv-4tlcVF7WvQawNC-30" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ocwjv-4tlcVF7WvQawNC-29">
+          <mxGeometry x="0.0132" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ocwjv-4tlcVF7WvQawNC-31" value="密码验证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-450" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ocwjv-4tlcVF7WvQawNC-33" value="登录错误提示" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-330" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ocwjv-4tlcVF7WvQawNC-35" value="忘记密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-290" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
