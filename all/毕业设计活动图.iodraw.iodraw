@@ -134,7 +134,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ulKGtjiTJ9nqPKSxC96Q-36" value="显示题目详情" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-3">
+        <mxCell id="ulKGtjiTJ9nqPKSxC96Q-36" value="显示对应题目详情" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-3">
           <mxGeometry x="75" y="450" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ulKGtjiTJ9nqPKSxC96Q-64" value="显示判题详情及答案" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-3">
