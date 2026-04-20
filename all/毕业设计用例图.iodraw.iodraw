@@ -30,9 +30,6 @@
         <mxCell id="ntTJmJCmJZTb7EMGH7qZ-15" value="用户名注册" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="635" y="-480" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ntTJmJCmJZTb7EMGH7qZ-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=10;" parent="1" vertex="1">
-          <mxGeometry x="635" y="55" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ntTJmJCmJZTb7EMGH7qZ-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;" parent="1" source="ntTJmJCmJZTb7EMGH7qZ-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="50" as="targetPoint" />
