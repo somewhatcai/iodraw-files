@@ -393,15 +393,6 @@
             <mxPoint x="1655" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ulKGtjiTJ9nqPKSxC96Q-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1605" y="530" as="sourcePoint" />
-            <mxPoint x="1805" y="565" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1605" y="565" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ulKGtjiTJ9nqPKSxC96Q-130" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=terminate;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;container=0;" parent="1" vertex="1">
           <mxGeometry x="1585" y="750" width="40" height="40" as="geometry" />
         </mxCell>
@@ -419,15 +410,6 @@
             <mxPoint x="1604.9099999999999" y="140" as="sourcePoint" />
             <mxPoint x="1604.9099999999999" y="160" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ulKGtjiTJ9nqPKSxC96Q-144" value="" style="rhombus;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1590" y="600" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ulKGtjiTJ9nqPKSxC96Q-145" value="上/下一题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1625" y="640" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ulKGtjiTJ9nqPKSxC96Q-147" value="结束答题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1500" y="640" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ulKGtjiTJ9nqPKSxC96Q-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
