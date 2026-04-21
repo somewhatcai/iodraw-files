@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="552" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="456" dy="1294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -544,7 +544,7 @@
         <mxCell id="-_UCoZ0ZbA098JbT-0kb-179" value="&lt;font style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;用户&lt;/font&gt;" style="swimlane;html=1;startSize=40;container=0;" vertex="1" parent="1">
           <mxGeometry x="2125" y="10" width="250" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="-_UCoZ0ZbA098JbT-0kb-180" value="填写模拟笔试参数" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;container=0;" vertex="1" parent="-_UCoZ0ZbA098JbT-0kb-179">
+        <mxCell id="-_UCoZ0ZbA098JbT-0kb-180" value="填写个人信息及模拟笔试参数" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;container=0;" vertex="1" parent="-_UCoZ0ZbA098JbT-0kb-179">
           <mxGeometry x="75" y="160" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-_UCoZ0ZbA098JbT-0kb-181" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-_UCoZ0ZbA098JbT-0kb-179">
