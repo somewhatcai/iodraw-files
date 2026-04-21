@@ -672,7 +672,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-_UCoZ0ZbA098JbT-0kb-242" value="&lt;font style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;用户&lt;/font&gt;" style="swimlane;html=1;startSize=40;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2810" y="10" width="250" height="690" as="geometry" />
+          <mxGeometry x="2820" y="-90" width="250" height="690" as="geometry" />
         </mxCell>
         <mxCell id="-_UCoZ0ZbA098JbT-0kb-243" value="填写帖子信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;container=0;" vertex="1" parent="-_UCoZ0ZbA098JbT-0kb-242">
           <mxGeometry x="75" y="490" width="100" height="30" as="geometry" />
