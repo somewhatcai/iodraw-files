@@ -232,6 +232,12 @@
         <mxCell id="ulKGtjiTJ9nqPKSxC96Q-160" value="显示判题详情及答案" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;container=0;" parent="ulKGtjiTJ9nqPKSxC96Q-167" vertex="1">
           <mxGeometry x="325" y="550" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-_UCoZ0ZbA098JbT-0kb-122" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ulKGtjiTJ9nqPKSxC96Q-167">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="374.72" as="sourcePoint" />
+            <mxPoint x="335" y="374.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-_UCoZ0ZbA098JbT-0kb-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="70" width="500" height="970" as="geometry" />
         </mxCell>
