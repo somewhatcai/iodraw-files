@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="659" dy="1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1130" dy="1581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -698,6 +698,9 @@
         </mxCell>
         <mxCell id="-_UCoZ0ZbA098JbT-0kb-306" value="选择帖子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="-_UCoZ0ZbA098JbT-0kb-242">
           <mxGeometry x="145" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_UCoZ0ZbA098JbT-0kb-313" value="选择帖子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="-_UCoZ0ZbA098JbT-0kb-242">
+          <mxGeometry x="155" y="180" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-_UCoZ0ZbA098JbT-0kb-255" value="&lt;font style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;系统&lt;/font&gt;" style="swimlane;html=1;startSize=40;container=0;" vertex="1" parent="1">
           <mxGeometry x="3060" y="10" width="250" height="690" as="geometry" />
