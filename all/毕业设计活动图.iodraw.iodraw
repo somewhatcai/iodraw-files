@@ -553,7 +553,7 @@
             <mxPoint x="325" y="174.66000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-_UCoZ0ZbA098JbT-0kb-182" value="开始模拟笔试" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;container=0;" vertex="1" parent="-_UCoZ0ZbA098JbT-0kb-179">
+        <mxCell id="-_UCoZ0ZbA098JbT-0kb-182" value="作答" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;container=0;" vertex="1" parent="-_UCoZ0ZbA098JbT-0kb-179">
           <mxGeometry x="75" y="260" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-_UCoZ0ZbA098JbT-0kb-183" value="答题" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;container=0;" vertex="1" parent="-_UCoZ0ZbA098JbT-0kb-179">
