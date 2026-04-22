@@ -362,8 +362,8 @@
         <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-16" value="- id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-14" vertex="1">
           <mxGeometry x="80" y="40" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-17" value="- private title：String" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-14" vertex="1">
-          <mxGeometry x="34.99999999999999" y="60" width="130" height="30" as="geometry" />
+        <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-17" value="- parentld" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-14" vertex="1">
+          <mxGeometry x="65" y="60" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-18" value="- private description：String" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-14" vertex="1">
           <mxGeometry x="15" y="80" width="170" height="30" as="geometry" />
