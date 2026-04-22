@@ -368,8 +368,8 @@
         <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-18" value="- name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-14" vertex="1">
           <mxGeometry x="70" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-19" value="- private sort：Enum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-14" vertex="1">
-          <mxGeometry x="35" y="100" width="130" height="30" as="geometry" />
+        <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-19" value="- description" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-14" vertex="1">
+          <mxGeometry x="55" y="100" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-20" value="- private position：String" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-14" vertex="1">
           <mxGeometry x="25" y="120" width="150" height="30" as="geometry" />
