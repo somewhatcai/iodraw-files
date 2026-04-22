@@ -342,15 +342,6 @@
         <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-9" value="- userProfile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-2" vertex="1">
           <mxGeometry x="55" y="140" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-10" value="- getImgUrl()：String&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-2" vertex="1">
-          <mxGeometry x="30" y="180" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-11" value="- getSex()：String&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-2" vertex="1">
-          <mxGeometry x="40" y="200" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-12" value="- getNickName()：String&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-2" vertex="1">
-          <mxGeometry x="20" y="220" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-13" value="- getLoginStatus()：bool&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-2" vertex="1">
           <mxGeometry x="21" y="240" width="160" height="30" as="geometry" />
         </mxCell>
