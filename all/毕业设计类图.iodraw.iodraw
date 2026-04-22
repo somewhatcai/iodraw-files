@@ -342,9 +342,6 @@
         <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-9" value="- userProfile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-2" vertex="1">
           <mxGeometry x="55" y="140" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-13" value="- getLoginStatus()：bool&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="C_ZK8m9QMKRUTGdAzZ8R-2" vertex="1">
-          <mxGeometry x="21" y="240" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="C_ZK8m9QMKRUTGdAzZ8R-14" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;course&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1">
           <mxGeometry x="1850" y="2450" width="200" height="270" as="geometry">
             <mxRectangle x="880" y="2060" width="140" height="30" as="alternateBounds" />
