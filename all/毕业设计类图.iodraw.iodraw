@@ -698,11 +698,11 @@
         <mxCell id="-c0Qw74vYtzb1WF3eFAq-166" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- reportJson&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-104">
           <mxGeometry x="50" y="262" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-c0Qw74vYtzb1WF3eFAq-167" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- reportJson&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-104">
+        <mxCell id="-c0Qw74vYtzb1WF3eFAq-167" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- totalScore&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-104">
           <mxGeometry x="50" y="282" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-c0Qw74vYtzb1WF3eFAq-168" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- reportJson&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-104">
-          <mxGeometry x="60" y="292" width="100" height="30" as="geometry" />
+          <mxGeometry x="50" y="302" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-c0Qw74vYtzb1WF3eFAq-116" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;Question&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
           <mxGeometry x="2170" y="2798" width="200" height="270" as="geometry">
