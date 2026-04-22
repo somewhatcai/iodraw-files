@@ -581,8 +581,8 @@
         <mxCell id="-c0Qw74vYtzb1WF3eFAq-77" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- adminReply&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-68">
           <mxGeometry x="45" y="180" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-c0Qw74vYtzb1WF3eFAq-78" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- categoryld&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-68">
-          <mxGeometry x="50" y="200" width="100" height="30" as="geometry" />
+        <mxCell id="-c0Qw74vYtzb1WF3eFAq-78" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- replyTime&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-68">
+          <mxGeometry x="55" y="200" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-c0Qw74vYtzb1WF3eFAq-79" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- createUserld&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-68">
           <mxGeometry x="45" y="220" width="110" height="30" as="geometry" />
