@@ -918,7 +918,7 @@
           <mxGeometry x="45" y="80" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-c0Qw74vYtzb1WF3eFAq-219" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;Question&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="3118" y="2808" width="200" height="270" as="geometry">
+          <mxGeometry x="4080" y="2798" width="200" height="270" as="geometry">
             <mxRectangle x="880" y="2060" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
