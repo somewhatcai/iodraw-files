@@ -552,11 +552,11 @@
         <mxCell id="-c0Qw74vYtzb1WF3eFAq-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- title&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-6">
           <mxGeometry x="75" y="60" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-c0Qw74vYtzb1WF3eFAq-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- name&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-6">
-          <mxGeometry x="65" y="80" width="70" height="30" as="geometry" />
+        <mxCell id="-c0Qw74vYtzb1WF3eFAq-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- content&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-6">
+          <mxGeometry x="60" y="80" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-c0Qw74vYtzb1WF3eFAq-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- description&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-6">
-          <mxGeometry x="50" y="100" width="100" height="30" as="geometry" />
+        <mxCell id="-c0Qw74vYtzb1WF3eFAq-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- answer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-6">
+          <mxGeometry x="60" y="100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-c0Qw74vYtzb1WF3eFAq-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- sortNo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-6">
           <mxGeometry x="65" y="120" width="70" height="30" as="geometry" />
