@@ -668,11 +668,11 @@
         <mxCell id="-c0Qw74vYtzb1WF3eFAq-107" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- userld&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-104">
           <mxGeometry x="65" y="60" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-c0Qw74vYtzb1WF3eFAq-108" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- content&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-104">
-          <mxGeometry x="60" y="80" width="80" height="30" as="geometry" />
+        <mxCell id="-c0Qw74vYtzb1WF3eFAq-108" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- interviewType&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-104">
+          <mxGeometry x="40" y="80" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-c0Qw74vYtzb1WF3eFAq-109" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- answer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-104">
-          <mxGeometry x="60" y="100" width="80" height="30" as="geometry" />
+        <mxCell id="-c0Qw74vYtzb1WF3eFAq-109" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- pressureMode&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-104">
+          <mxGeometry x="40" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-c0Qw74vYtzb1WF3eFAq-110" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- analysis&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-104">
           <mxGeometry x="60" y="120" width="80" height="30" as="geometry" />
