@@ -139,7 +139,7 @@
           <mxGeometry x="55" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-c0Qw74vYtzb1WF3eFAq-30" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="7720" y="4010" width="922.5" height="1020" as="geometry" />
+          <mxGeometry x="10550" y="3460" width="922.5" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="Q1Te8IZYS-M8KPfvk_TU-1" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;user&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="-c0Qw74vYtzb1WF3eFAq-30" vertex="1">
           <mxGeometry x="360" y="310" width="200" height="270" as="geometry">
