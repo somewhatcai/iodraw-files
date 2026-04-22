@@ -1497,7 +1497,7 @@
           <mxGeometry x="-1990" y="1570" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dq8L3dv4zI9oVuMVVi6Q-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1530" y="1250" width="1180" height="1280" as="geometry" />
+          <mxGeometry x="90" y="1250" width="1180" height="1280" as="geometry" />
         </mxCell>
         <mxCell id="Dq8L3dv4zI9oVuMVVi6Q-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="Dq8L3dv4zI9oVuMVVi6Q-1">
           <mxGeometry x="900" y="440" width="20" height="280" as="geometry" />
