@@ -911,14 +911,11 @@
         <mxCell id="-c0Qw74vYtzb1WF3eFAq-210" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- id&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-208">
           <mxGeometry x="80" y="40" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-c0Qw74vYtzb1WF3eFAq-211" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- jobPositionld&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-208">
-          <mxGeometry x="45" y="60" width="110" height="30" as="geometry" />
+        <mxCell id="-c0Qw74vYtzb1WF3eFAq-211" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;-&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;userld&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-208">
+          <mxGeometry x="65" y="60" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-c0Qw74vYtzb1WF3eFAq-212" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- generatedText&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-208">
-          <mxGeometry x="40" y="80" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-c0Qw74vYtzb1WF3eFAq-213" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- level&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-208">
-          <mxGeometry x="70" y="100" width="60" height="30" as="geometry" />
+        <mxCell id="-c0Qw74vYtzb1WF3eFAq-212" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- checklnDate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-c0Qw74vYtzb1WF3eFAq-208">
+          <mxGeometry x="45" y="80" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
