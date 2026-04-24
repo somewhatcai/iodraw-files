@@ -835,9 +835,6 @@
         <mxCell id="7I42BybfFWy3jq2Fq1go-298" value="模拟面试消息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1888.75" y="550" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7I42BybfFWy3jq2Fq1go-312" value="&lt;span style=&quot;white-space: normal;&quot;&gt;创&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;建&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;(仅&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;员)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1490" width="40" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-313" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="7I42BybfFWy3jq2Fq1go-315" parent="1" source="7I42BybfFWy3jq2Fq1go-289">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1176.5" y="1385" as="sourcePoint" />
