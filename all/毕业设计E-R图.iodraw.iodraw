@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1345" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="769" dy="1431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1654,43 +1654,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-709" value="面试类型" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="-460" width="75" height="30" as="geometry" />
+          <mxGeometry x="610" y="1490" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-710" value="压力模式" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1197.5" y="-420" width="75" height="30" as="geometry" />
+          <mxGeometry x="597.5" y="1530" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-711" value="面试场景" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1195" y="-385" width="75" height="30" as="geometry" />
+          <mxGeometry x="595" y="1565" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-712" value="对话总轮数" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1222.5" y="-320" width="75" height="30" as="geometry" />
+          <mxGeometry x="622.5" y="1630" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-713" value="面试报告" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1248" y="-290" width="75" height="30" as="geometry" />
+          <mxGeometry x="648" y="1660" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-714" value="总得分" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="-260" width="75" height="30" as="geometry" />
+          <mxGeometry x="685" y="1690" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-715" value="状态" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="-260" width="75" height="30" as="geometry" />
+          <mxGeometry x="760" y="1690" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-716" value="结束时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-290" width="75" height="30" as="geometry" />
+          <mxGeometry x="800" y="1660" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-717" value="开始时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="-320" width="75" height="30" as="geometry" />
+          <mxGeometry x="820" y="1630" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-718" value="专业" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1435" y="-350" width="75" height="30" as="geometry" />
+          <mxGeometry x="835" y="1600" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-719" value="岗位要求" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1435" y="-385" width="75" height="30" as="geometry" />
+          <mxGeometry x="835" y="1565" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-720" value="期待岗位" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1435" y="-420" width="75" height="30" as="geometry" />
+          <mxGeometry x="835" y="1530" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-721" value="候选人名字" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1427.5" y="-460" width="75" height="30" as="geometry" />
+          <mxGeometry x="827.5" y="1490" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
