@@ -812,7 +812,7 @@
           <mxGeometry x="1045" y="-60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-290" value="帖子" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="60" width="100" height="40" as="geometry" />
+          <mxGeometry x="1760" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-291" value="题目" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1045" y="220" width="100" height="40" as="geometry" />
@@ -827,13 +827,13 @@
           <mxGeometry x="1230" y="-60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-296" value="模拟笔试题目" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="210" width="100" height="40" as="geometry" />
+          <mxGeometry x="1237.5" y="210" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-297" value="模拟面试对话" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="210" width="100" height="40" as="geometry" />
+          <mxGeometry x="1402.5" y="210" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-298" value="模拟面试消息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1535" y="210" width="100" height="40" as="geometry" />
+          <mxGeometry x="1670" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-299" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1090" y="-140" width="80" height="40" as="geometry" />
