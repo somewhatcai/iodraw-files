@@ -2494,6 +2494,20 @@
             <mxPoint x="280" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9f2H_hXGso3vP5ghHkh0-453" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="11711" y="1110" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9f2H_hXGso3vP5ghHkh0-454" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;MockInterviewSession&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="9f2H_hXGso3vP5ghHkh0-453">
+          <mxGeometry width="280" height="100" as="geometry">
+            <mxRectangle x="880" y="2060" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9f2H_hXGso3vP5ghHkh0-455" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="9f2H_hXGso3vP5ghHkh0-453">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="70" as="sourcePoint" />
+            <mxPoint x="280" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
