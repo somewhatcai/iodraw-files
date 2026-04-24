@@ -52,8 +52,8 @@
             <mxPoint x="425" y="-830.08" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7I42BybfFWy3jq2Fq1go-17" value="介绍" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-835" width="75" height="30" as="geometry" />
+        <mxCell id="7I42BybfFWy3jq2Fq1go-20" value="ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-920" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
