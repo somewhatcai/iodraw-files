@@ -622,7 +622,7 @@
             <mxPoint x="1290" y="-380.08000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7I42BybfFWy3jq2Fq1go-244" value="标题" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="7I42BybfFWy3jq2Fq1go-244" value="面试类型" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1235" y="-470" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-245" value="模式" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
