@@ -2469,7 +2469,7 @@
         <mxCell id="9f2H_hXGso3vP5ghHkh0-447" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="11230" y="720" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9f2H_hXGso3vP5ghHkh0-448" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;MockExam&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;Mapper&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="9f2H_hXGso3vP5ghHkh0-447">
+        <mxCell id="9f2H_hXGso3vP5ghHkh0-448" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;MockExam&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="9f2H_hXGso3vP5ghHkh0-447">
           <mxGeometry width="190" height="100" as="geometry">
             <mxRectangle x="880" y="2060" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
