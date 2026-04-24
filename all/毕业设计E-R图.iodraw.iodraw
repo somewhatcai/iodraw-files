@@ -1663,10 +1663,10 @@
           <mxGeometry x="595" y="1565" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-712" value="对话总轮数" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="622.5" y="1630" width="75" height="30" as="geometry" />
+          <mxGeometry x="620" y="1600" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-713" value="面试报告" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="648" y="1660" width="75" height="30" as="geometry" />
+          <mxGeometry x="685" y="1620" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-714" value="总得分" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="685" y="1690" width="75" height="30" as="geometry" />
@@ -1675,7 +1675,7 @@
           <mxGeometry x="760" y="1690" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-716" value="结束时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1660" width="75" height="30" as="geometry" />
+          <mxGeometry x="760" y="1600" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-717" value="开始时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="820" y="1630" width="75" height="30" as="geometry" />
