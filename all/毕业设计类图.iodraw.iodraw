@@ -2061,7 +2061,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9f2H_hXGso3vP5ghHkh0-224" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="9200" y="120" width="280" height="100" as="geometry" />
+          <mxGeometry x="9360" y="120" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9f2H_hXGso3vP5ghHkh0-225" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;QuestionCategoryController&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="9f2H_hXGso3vP5ghHkh0-224">
           <mxGeometry width="280" height="100" as="geometry">
@@ -2075,7 +2075,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9f2H_hXGso3vP5ghHkh0-233" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="9200" y="360" width="280" height="100" as="geometry" />
+          <mxGeometry x="9360" y="360" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9f2H_hXGso3vP5ghHkh0-234" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;QuestionCategory&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;Service&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="9f2H_hXGso3vP5ghHkh0-233">
           <mxGeometry width="280" height="100" as="geometry">
@@ -2089,7 +2089,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9f2H_hXGso3vP5ghHkh0-243" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="9520" y="360" width="280" height="100" as="geometry" />
+          <mxGeometry x="9360" y="560" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9f2H_hXGso3vP5ghHkh0-244" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;QuestionCategory&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;Mapper&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="9f2H_hXGso3vP5ghHkh0-243">
           <mxGeometry width="280" height="100" as="geometry">
