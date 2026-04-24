@@ -1004,7 +1004,7 @@
             <mxPoint x="1505" y="1185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7I42BybfFWy3jq2Fq1go-372" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7I42BybfFWy3jq2Fq1go-371">
+        <mxCell id="7I42BybfFWy3jq2Fq1go-372" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7I42BybfFWy3jq2Fq1go-371">
           <mxGeometry x="-0.1093" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
