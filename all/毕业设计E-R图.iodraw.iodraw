@@ -905,8 +905,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7I42BybfFWy3jq2Fq1go-315" value="创建(仅管理员)" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rotation=-35;" vertex="1" parent="1">
-          <mxGeometry x="1328.75" y="325" width="102.5" height="50" as="geometry" />
+        <mxCell id="7I42BybfFWy3jq2Fq1go-315" value="创建(仅管理员)" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="1336.25" y="240" width="102.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-316" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" source="7I42BybfFWy3jq2Fq1go-315" parent="1" target="7I42BybfFWy3jq2Fq1go-291">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
