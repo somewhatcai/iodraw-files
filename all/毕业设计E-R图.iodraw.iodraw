@@ -250,7 +250,7 @@
         <mxCell id="7I42BybfFWy3jq2Fq1go-113" value="ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="875" y="-750" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7I42BybfFWy3jq2Fq1go-114" value="题目分类" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="7I42BybfFWy3jq2Fq1go-114" value="题目提交记录" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="862.5" y="-660" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-115" value="排序序号" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
