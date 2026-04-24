@@ -809,7 +809,7 @@
           <mxGeometry x="1045" y="60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-289" value="题目分类" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="-60" width="100" height="40" as="geometry" />
+          <mxGeometry x="1237.5" y="260" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-290" value="帖子" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1760" y="40" width="100" height="40" as="geometry" />
