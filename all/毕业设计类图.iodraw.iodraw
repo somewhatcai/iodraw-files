@@ -2019,12 +2019,9 @@
           <mxGeometry x="60" y="80" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9f2H_hXGso3vP5ghHkh0-1" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;UserController&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="8250" y="20" width="360" height="230" as="geometry">
+          <mxGeometry x="8250" y="20" width="140" height="100" as="geometry">
             <mxRectangle x="880" y="2060" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="9f2H_hXGso3vP5ghHkh0-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;-userService：UserService&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9f2H_hXGso3vP5ghHkh0-1">
-          <mxGeometry x="55" y="40" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9f2H_hXGso3vP5ghHkh0-8" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;UserService&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
           <mxGeometry x="8680" y="20" width="450" height="230" as="geometry">
