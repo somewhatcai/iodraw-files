@@ -1669,7 +1669,7 @@
           <mxGeometry x="685" y="1620" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-714" value="总得分" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="685" y="1690" width="75" height="30" as="geometry" />
+          <mxGeometry x="795" y="1580" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-715" value="状态" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="760" y="1610" width="75" height="30" as="geometry" />
@@ -1690,7 +1690,7 @@
           <mxGeometry x="1014" y="1550" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-721" value="候选人名字" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="985.75" y="1580" width="75" height="30" as="geometry" />
+          <mxGeometry x="825" y="1550" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
