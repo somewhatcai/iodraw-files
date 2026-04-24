@@ -25,8 +25,8 @@
             <mxPoint x="490" y="-900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7I42BybfFWy3jq2Fq1go-11" value="账号" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-920" width="75" height="30" as="geometry" />
+        <mxCell id="7I42BybfFWy3jq2Fq1go-11" value="密码" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-890" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
