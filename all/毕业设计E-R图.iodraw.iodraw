@@ -1032,7 +1032,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-380" value="" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rotation=60;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="1116" width="72.9595" height="35.593220338983045" as="geometry" />
+          <mxGeometry x="1373.04" y="1100" width="72.9595" height="35.593220338983045" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-381" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;引用&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="1396" y="1122" width="50" height="30" as="geometry" />
