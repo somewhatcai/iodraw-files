@@ -835,6 +835,9 @@
         <mxCell id="7I42BybfFWy3jq2Fq1go-298" value="模拟面试消息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1560" y="10" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7I42BybfFWy3jq2Fq1go-299" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
