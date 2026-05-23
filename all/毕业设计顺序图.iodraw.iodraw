@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uJorhv5uKUPzMu0_b9UY">
-    <mxGraphModel dx="8411" dy="2525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3799" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2820,9 +2820,6 @@
             <mxPoint x="5719" y="1911" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-7" value="&lt;b&gt;QuestionSubmit&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Service&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5659" y="1201" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="1wAO9gfyMr14ydo0cusd-8" value="&lt;b&gt;点击开始笔试&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="5173" y="1286" width="110" height="30" as="geometry" />
         </mxCell>
@@ -2853,7 +2850,7 @@
         <mxCell id="1wAO9gfyMr14ydo0cusd-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="5709" y="1381" width="20" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" edge="1" source="1wAO9gfyMr14ydo0cusd-7" target="1wAO9gfyMr14ydo0cusd-14" parent="1">
+        <mxCell id="1wAO9gfyMr14ydo0cusd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" edge="1" target="1wAO9gfyMr14ydo0cusd-14" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5719" y="2481" as="targetPoint" />
             <mxPoint x="5719" y="1261" as="sourcePoint" />
@@ -3056,12 +3053,6 @@
         </mxCell>
         <mxCell id="1wAO9gfyMr14ydo0cusd-60" value="&lt;b&gt;返回&lt;/b&gt;&lt;b&gt;判题&lt;/b&gt;&lt;b&gt;结果JSON&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="5350" y="1841" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-61" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;strokeWidth=2;dashed=1;exitX=0.002;exitY=0.497;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;entryX=1;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="1wAO9gfyMr14ydo0cusd-57" target="1wAO9gfyMr14ydo0cusd-57" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5048.860000000001" y="1894.1" as="sourcePoint" />
-            <mxPoint x="6441" y="1901" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="1wAO9gfyMr14ydo0cusd-62" value="&lt;b&gt;失败&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="5061" y="1911" width="50" height="30" as="geometry" />
