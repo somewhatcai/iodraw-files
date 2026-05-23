@@ -2823,8 +2823,8 @@
         <mxCell id="1wAO9gfyMr14ydo0cusd-7" value="&lt;b&gt;QuestionSubmit&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Service&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="5659" y="1201" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-8" value="&lt;b&gt;提交答案&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="5188" y="1286" width="80" height="30" as="geometry" />
+        <mxCell id="1wAO9gfyMr14ydo0cusd-8" value="&lt;b&gt;点击&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="5203" y="1286" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1wAO9gfyMr14ydo0cusd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;startArrow=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
