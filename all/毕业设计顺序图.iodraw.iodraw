@@ -2871,7 +2871,7 @@
             <mxPoint x="5319" y="1321" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-19" value="&lt;b&gt;发送开始请求&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="1wAO9gfyMr14ydo0cusd-19" value="&lt;b&gt;发送提交请求&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="5373" y="1331" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1wAO9gfyMr14ydo0cusd-20" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;" edge="1" parent="1">
