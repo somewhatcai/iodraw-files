@@ -3106,7 +3106,7 @@
           <mxGeometry x="5043.719999999999" y="2500" width="106.06" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-9" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Axios&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5028.4400000000005" y="2575" width="85.62" height="40" as="geometry" />
+          <mxGeometry x="5043.72" y="2560" width="106.28" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-10" value="&lt;span style=&quot;white-space: nowrap; font-size: 14px;&quot;&gt;&lt;b&gt;Ant Design&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;&amp;nbsp;Vue&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5028.4400000000005" y="2635" width="85.62" height="40" as="geometry" />
