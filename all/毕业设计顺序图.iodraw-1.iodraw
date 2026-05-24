@@ -3686,8 +3686,8 @@
             <mxPoint x="8170" y="1329.96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-487" value="&lt;b&gt;发送获取笔试题目&lt;/b&gt;&lt;div&gt;&lt;b&gt;列表请求&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="8204" y="1333.96" width="140" height="50" as="geometry" />
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-487" value="&lt;b&gt;发送组卷请求&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="8219" y="1343.96" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-488" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;entryX=-0.061;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="wdnG9YadhtyFBK6v6IkF-480" parent="1">
           <mxGeometry relative="1" as="geometry">
