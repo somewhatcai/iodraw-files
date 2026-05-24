@@ -3535,8 +3535,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-171" value="&lt;b&gt;根据笔试ID&lt;/b&gt;&lt;div&gt;&lt;b&gt;获取笔试记录&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="7158" y="2440" width="110" height="50" as="geometry" />
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-171" value="&lt;b&gt;根据笔试ID&lt;/b&gt;&lt;div&gt;&lt;b&gt;获取所有笔试题目&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="7143" y="2440" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-172" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;entryX=-0.078;entryY=0.179;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
