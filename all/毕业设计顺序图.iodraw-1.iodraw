@@ -2886,7 +2886,7 @@
         <mxCell id="1wAO9gfyMr14ydo0cusd-22" value="&lt;b&gt;开始笔试&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="5588" y="1361" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-23" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;" parent="1" edge="1">
+        <mxCell id="1wAO9gfyMr14ydo0cusd-23" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;entryX=-0.2;entryY=0.071;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="1wAO9gfyMr14ydo0cusd-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5730" y="1426" as="sourcePoint" />
             <mxPoint x="5900" y="1426" as="targetPoint" />
