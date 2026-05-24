@@ -3157,22 +3157,22 @@
           <mxGeometry x="5566.860000000001" y="2787.5" width="106.28" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5797.5" y="2450.62" width="146.5" height="408.75" as="geometry" />
+          <mxGeometry x="5787.5" y="2450.64" width="146.5" height="408.75" as="geometry" />
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-52" value="&lt;div&gt;&lt;b style=&quot;font-size: 14px; white-space: nowrap; background-color: initial;&quot;&gt;DeepSeek LLM&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5817.61" y="2514.99" width="106.06" height="40" as="geometry" />
+          <mxGeometry x="5807.61" y="2515.0099999999998" width="106.06" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-53" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;阿里云&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;ASR/TTS&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5817.610000000001" y="2574.99" width="106.28" height="40" as="geometry" />
+          <mxGeometry x="5807.610000000001" y="2575.0099999999998" width="106.28" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-54" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;腾讯云&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;对象存储COS&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5817.610000000001" y="2634.99" width="106.28" height="40" as="geometry" />
+          <mxGeometry x="5807.610000000001" y="2635.0099999999998" width="106.28" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-55" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;QQ邮箱&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;SMTP&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px; white-space: nowrap; background-color: initial;&quot;&gt;服务&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5817.610000000001" y="2694.99" width="106.28" height="40" as="geometry" />
+          <mxGeometry x="5807.610000000001" y="2695.0099999999998" width="106.28" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-56" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;代码沙箱&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5817.610000000001" y="2754.99" width="106.28" height="40" as="geometry" />
+          <mxGeometry x="5807.610000000001" y="2755.0099999999998" width="106.28" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6440" y="2445.01" width="146.5" height="408.75" as="geometry" />
