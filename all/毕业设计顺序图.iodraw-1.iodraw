@@ -3336,6 +3336,15 @@
             <mxPoint x="7110" y="1690.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-107" value="&lt;b&gt;根据笔试ID获取笔试题目列表&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="7110" y="1690" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-108" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;entryX=-0.078;entryY=0.179;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7120" y="1719.8" as="sourcePoint" />
+            <mxPoint x="7487" y="1719.49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
