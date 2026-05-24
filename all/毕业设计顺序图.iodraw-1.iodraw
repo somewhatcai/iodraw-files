@@ -3036,6 +3036,15 @@
         <mxCell id="v4qyYNFwGZ69N7b7th9j-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="5330" y="1740.19" width="20" height="42.61" as="geometry" />
         </mxCell>
+        <mxCell id="v4qyYNFwGZ69N7b7th9j-48" value="&lt;b&gt;点击开始笔试&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="5004" y="1296" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v4qyYNFwGZ69N7b7th9j-49" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4970" y="1331" as="sourcePoint" />
+            <mxPoint x="5150" y="1331" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
