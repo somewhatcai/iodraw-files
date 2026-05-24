@@ -3587,8 +3587,8 @@
         <mxCell id="wdnG9YadhtyFBK6v6IkF-185" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="7130" y="2701" width="9.997222993612885" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-186" value="&lt;b&gt;返回笔试题目列表&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="7140" y="2680" width="140" height="30" as="geometry" />
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-186" value="&lt;b&gt;更新成功&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="7170" y="2680" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
