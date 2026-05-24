@@ -3709,7 +3709,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-496" value="&lt;b&gt;Question&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Service&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-496" value="&lt;b&gt;MockExamMapper&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="8730" y="1209.96" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-497" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
