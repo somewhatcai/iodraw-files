@@ -4532,13 +4532,13 @@
         <mxCell id="wdnG9YadhtyFBK6v6IkF-850" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;选项&lt;/b&gt;&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="10400" y="2005" width="925" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-852" value="&lt;b&gt;点击结束面试&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="10505.5" y="2010.6" width="110" height="30" as="geometry" />
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-852" value="&lt;b&gt;查看面试报告&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="10505.5" y="2020.9599999999998" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-853" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10468" y="2042.6799999999998" as="sourcePoint" />
-            <mxPoint x="10650.5" y="2042.6399999999999" as="targetPoint" />
+            <mxPoint x="10468" y="2053.04" as="sourcePoint" />
+            <mxPoint x="10650.5" y="2053" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
