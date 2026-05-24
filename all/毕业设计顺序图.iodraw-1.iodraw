@@ -2912,9 +2912,9 @@
         <mxCell id="v4qyYNFwGZ69N7b7th9j-8" value="&lt;b&gt;是&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="4900" y="1620" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v4qyYNFwGZ69N7b7th9j-10" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;exitX=1.008;exitY=0.526;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1wAO9gfyMr14ydo0cusd-14" edge="1">
+        <mxCell id="v4qyYNFwGZ69N7b7th9j-10" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5752.860000000001" y="1630" as="sourcePoint" />
+            <mxPoint x="5730" y="1630" as="sourcePoint" />
             <mxPoint x="5940" y="1630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
