@@ -4332,6 +4332,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-738" value="&lt;b&gt;获取对话轮数&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="9761.58" y="1534.54" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-739" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;exitX=1;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.088;entryY=0.166;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9731.76" y="1558.43" as="sourcePoint" />
+            <mxPoint x="9910" y="1558.5790000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
