@@ -3109,10 +3109,10 @@
           <mxGeometry x="5043.72" y="2560" width="106.28" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-10" value="&lt;span style=&quot;white-space: nowrap; font-size: 14px;&quot;&gt;&lt;b&gt;Ant Design&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;&amp;nbsp;Vue&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5042.19" y="2620" width="106.81" height="40" as="geometry" />
+          <mxGeometry x="5043.72" y="2620" width="106.28" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-11" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;ECharts&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5043.72" y="2695" width="85.62" height="40" as="geometry" />
+          <mxGeometry x="5043.72" y="2670" width="85.62" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-13" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Monaco&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Editor&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5028.4400000000005" y="2755" width="85.62" height="40" as="geometry" />
