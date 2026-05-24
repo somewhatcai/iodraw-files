@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uJorhv5uKUPzMu0_b9UY">
-    <mxGraphModel dx="3363" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4025" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3822,13 +3822,13 @@
             <mxPoint x="8169" y="1701" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-614" value="&lt;b&gt;发送组卷预览请求&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="8214" y="1353.96" width="140" height="30" as="geometry" />
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-614" value="&lt;b&gt;发送创建笔试请求&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="8205" y="1706" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-615" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;entryX=-0.052;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="8199" y="1383.76" as="sourcePoint" />
-            <mxPoint x="8379" y="1383" as="targetPoint" />
+            <mxPoint x="8190" y="1735.8" as="sourcePoint" />
+            <mxPoint x="8370" y="1735.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
