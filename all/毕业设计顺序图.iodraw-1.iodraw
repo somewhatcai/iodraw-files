@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uJorhv5uKUPzMu0_b9UY">
-    <mxGraphModel dx="3793" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3387" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4064,7 +4064,7 @@
           <mxGeometry x="9850" y="1236" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-677" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="9900" y="1524.54" width="20" height="215.46" as="geometry" />
+          <mxGeometry x="9900" y="1524.54" width="20" height="255.46" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-678" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" edge="1" source="wdnG9YadhtyFBK6v6IkF-676" target="wdnG9YadhtyFBK6v6IkF-677" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -4167,6 +4167,15 @@
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-743" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;并行&lt;/b&gt;&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="9037.5" y="1849.82" width="925" height="585.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-744" value="&lt;b&gt;获取对话轮数&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="9751.58" y="1735" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-745" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;exitX=1;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.088;entryY=0.166;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9721.76" y="1758.89" as="sourcePoint" />
+            <mxPoint x="9900" y="1759.0390000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
