@@ -3779,15 +3779,6 @@
             <mxPoint x="8781" y="1448.6284171042762" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-519" value="&lt;b&gt;发送更新用户笔试题目&lt;/b&gt;&lt;div&gt;&lt;b&gt;答案请求&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="8194" y="1620.35" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-520" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;entryX=-0.022;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="8189" y="1660.15" as="sourcePoint" />
-            <mxPoint x="8370" y="1660.35" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-521" value="&lt;b&gt;提交题目ID和用户答案&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="8605" y="1808.6299999999999" width="160" height="30" as="geometry" />
         </mxCell>
@@ -3795,15 +3786,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="8600" y="1838.43" as="sourcePoint" />
             <mxPoint x="8780" y="1839.3" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-523" value="&lt;b&gt;根据笔试题目ID&lt;/b&gt;&lt;div&gt;&lt;b&gt;获取笔试题目&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="8625" y="1678.96" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-524" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;entryX=-0.078;entryY=0.179;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="8602" y="1723.93" as="sourcePoint" />
-            <mxPoint x="8969" y="1723.6200000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-525" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="wdnG9YadhtyFBK6v6IkF-526" parent="1">
@@ -3815,27 +3797,6 @@
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-526" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="8969" y="1691.8500000000001" width="20" height="382.11" as="geometry" />
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-527" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="8600" y="1750.46" width="9.997222993612885" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-528" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.01;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="wdnG9YadhtyFBK6v6IkF-527" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="8969" y="1755.46" as="sourcePoint" />
-            <mxPoint x="8781" y="1734.1284171042762" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-529" value="&lt;b&gt;返回&lt;/b&gt;&lt;b&gt;笔试题目&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="8625" y="1729.46" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-530" value="&lt;b&gt;更新用户笔试题目&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;答案&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="8395" y="1664.9599999999998" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-531" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;entryX=0.069;entryY=0.221;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="wdnG9YadhtyFBK6v6IkF-482" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="8391.5" y="1693.76" as="sourcePoint" />
-            <mxPoint x="8572.5" y="1693.9599999999998" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-532" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;width=0.09302325581395349;endSize=2.7430420711974115;endWidth=8.472943478588094;entryX=1.038;entryY=0.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
