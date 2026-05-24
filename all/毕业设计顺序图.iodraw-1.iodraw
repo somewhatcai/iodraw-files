@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uJorhv5uKUPzMu0_b9UY">
-    <mxGraphModel dx="3075" dy="260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3477" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4004,8 +4004,8 @@
         <mxCell id="wdnG9YadhtyFBK6v6IkF-661" value="&lt;b&gt;MockInterview&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Service&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="9650" y="1236" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-662" value="&lt;b&gt;填写分类、熟练度等&lt;/b&gt;&lt;div&gt;&lt;b&gt;组卷参数&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="9124" y="1311" width="150" height="50" as="geometry" />
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-662" value="&lt;b&gt;输出回答文本&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="9144" y="1321" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-663" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="9289" y="1335" width="20" height="1041.04" as="geometry" />
@@ -4069,7 +4069,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-676" value="&lt;b&gt;MockExam&lt;/b&gt;&lt;div&gt;&lt;b&gt;Mapper&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-676" value="&lt;b&gt;Mock&lt;/b&gt;&lt;b&gt;Interview&lt;/b&gt;&lt;div&gt;&lt;b&gt;Mapper&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="9850" y="1236" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-677" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
