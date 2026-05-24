@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uJorhv5uKUPzMu0_b9UY">
-    <mxGraphModel dx="2939" dy="196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4061" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2911,15 +2911,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;startArrow=none;" parent="1" source="1wAO9gfyMr14ydo0cusd-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5900" y="2010" as="targetPoint" />
-            <mxPoint x="5899" y="1260" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-35" value="&lt;b&gt;QuestionJudge&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Service&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="5839" y="1201" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="v4qyYNFwGZ69N7b7th9j-5" value="&lt;b&gt;检验笔试状态&lt;/b&gt;&lt;div&gt;&lt;b&gt;是否为“已创建”&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="5759" y="1507.5" width="120" height="50" as="geometry" />
         </mxCell>
@@ -3113,7 +3104,7 @@
         </mxCell>
         <mxCell id="v4qyYNFwGZ69N7b7th9j-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1wAO9gfyMr14ydo0cusd-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5718.84" y="2010" as="targetPoint" />
+            <mxPoint x="5720" y="1980" as="targetPoint" />
             <mxPoint x="5718.84" y="1980" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
