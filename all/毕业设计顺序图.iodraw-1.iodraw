@@ -4530,7 +4530,7 @@
           <mxGeometry x="10470" y="1944.54" width="9.997222993612885" height="10" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-850" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;并行&lt;/b&gt;&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="10410" y="1660" width="925" height="340" as="geometry" />
+          <mxGeometry x="10400" y="2005" width="925" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
