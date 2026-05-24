@@ -3166,23 +3166,11 @@
             <mxPoint x="6899" y="1379.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-21" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="7099" y="1411" as="sourcePoint" />
-            <mxPoint x="7269" y="1411" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-22" value="&lt;b&gt;开始笔试&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="7136.5" y="1380" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-23" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;entryX=-0.121;entryY=0.198;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="wdnG9YadhtyFBK6v6IkF-25" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7290" y="1441" as="sourcePoint" />
             <mxPoint x="7650" y="1441" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-24" value="&lt;b&gt;获取笔试记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="7307.5" y="1406" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="7499" y="1425" width="20" height="81" as="geometry" />
