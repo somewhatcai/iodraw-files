@@ -3689,7 +3689,7 @@
         <mxCell id="wdnG9YadhtyFBK6v6IkF-487" value="&lt;b&gt;发送组卷预览请求&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="8204" y="1343.96" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-488" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;entryX=-0.061;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="wdnG9YadhtyFBK6v6IkF-480" parent="1">
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-488" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;entryX=-0.052;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="wdnG9YadhtyFBK6v6IkF-480" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="8189" y="1373.76" as="sourcePoint" />
             <mxPoint x="8369" y="1373.76" as="targetPoint" />
