@@ -3240,7 +3240,7 @@
         <mxCell id="ohtbflyH-ZS-ryOssVOq-70" value="&lt;b style=&quot;white-space: nowrap; font-size: 14px;&quot;&gt;...&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6013.990000000001" y="2794.0600000000004" width="106.28" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ohtbflyH-ZS-ryOssVOq-104" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;业务逻辑层&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-104" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;数据访问层&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="6030.889999999999" y="2430.02" width="72.26" height="30" as="geometry" />
         </mxCell>
       </root>
