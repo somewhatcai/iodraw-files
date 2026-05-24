@@ -3590,6 +3590,21 @@
         <mxCell id="wdnG9YadhtyFBK6v6IkF-186" value="&lt;b&gt;更新成功&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="7170" y="2680" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-191" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6919.999999999999" y="2730" width="9.997222993612922" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-192" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="wdnG9YadhtyFBK6v6IkF-191">
+          <mxGeometry x="9.094947017729282e-13" width="9.997222993612885" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-193" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.062;exitY=0.443;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="wdnG9YadhtyFBK6v6IkF-192" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7107.5" y="2734.04" as="sourcePoint" />
+            <mxPoint x="6910" y="2713.668417104276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-194" value="&lt;b&gt;返回笔试信息&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="6950" y="2710" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
