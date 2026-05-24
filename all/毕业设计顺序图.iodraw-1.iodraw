@@ -2961,6 +2961,15 @@
         <mxCell id="v4qyYNFwGZ69N7b7th9j-8" value="&lt;b&gt;是&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="5066" y="1620" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="v4qyYNFwGZ69N7b7th9j-10" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5740" y="1436" as="sourcePoint" />
+            <mxPoint x="6100" y="1436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v4qyYNFwGZ69N7b7th9j-11" value="&lt;b&gt;获取笔试记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="5757.5" y="1401" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
