@@ -3186,7 +3186,7 @@
         <mxCell id="ohtbflyH-ZS-ryOssVOq-62" value="&lt;b style=&quot;white-space: nowrap; background-color: initial; font-size: 14px;&quot;&gt;MockExam&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Mapper&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6020.110000000001" y="2671.88" width="106.28" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ohtbflyH-ZS-ryOssVOq-63" value="&lt;b style=&quot;white-space: nowrap; background-color: initial; font-size: 14px;&quot;&gt;MockExam&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Service&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-63" value="&lt;b style=&quot;white-space: nowrap; background-color: initial; font-size: 14px;&quot;&gt;MockInterview&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Mapper&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6020.110000000001" y="2731.88" width="106.28" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-64" value="&lt;b style=&quot;white-space: nowrap; background-color: initial; font-size: 14px;&quot;&gt;MockInterview&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Service&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
