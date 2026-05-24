@@ -2963,8 +2963,8 @@
         </mxCell>
         <mxCell id="v4qyYNFwGZ69N7b7th9j-10" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5729" y="1633.75" as="sourcePoint" />
-            <mxPoint x="6089" y="1634" as="targetPoint" />
+            <mxPoint x="5739" y="1639.26" as="sourcePoint" />
+            <mxPoint x="6099" y="1639.51" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v4qyYNFwGZ69N7b7th9j-11" value="&lt;b&gt;笔试状态更新为“进行中”&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
