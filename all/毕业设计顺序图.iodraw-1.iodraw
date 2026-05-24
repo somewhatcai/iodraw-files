@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uJorhv5uKUPzMu0_b9UY">
-    <mxGraphModel dx="3089" dy="259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5446" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2895,9 +2895,6 @@
         <mxCell id="1wAO9gfyMr14ydo0cusd-24" value="&lt;b&gt;获取笔试记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="5747.5" y="1391" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-25" value="&lt;b&gt;返回判题结果&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="5755" y="1600" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="1wAO9gfyMr14ydo0cusd-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="6094" y="1421" width="20" height="70" as="geometry" />
         </mxCell>
@@ -2932,27 +2929,6 @@
         </mxCell>
         <mxCell id="1wAO9gfyMr14ydo0cusd-35" value="&lt;b&gt;QuestionJudge&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Service&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="5839" y="1201" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-45" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="5729" y="1621" width="161" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-46" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1wAO9gfyMr14ydo0cusd-45" target="1wAO9gfyMr14ydo0cusd-47" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="161" y="5" as="sourcePoint" />
-            <mxPoint x="-10" y="-16.33158289572407" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-47" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" parent="1wAO9gfyMr14ydo0cusd-45" vertex="1">
-          <mxGeometry width="9.997222993612885" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-48" value="&lt;b&gt;插入提交记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="5755" y="1671" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-50" value="&lt;b&gt;返回插入结果&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="5764" y="1712.5" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1wAO9gfyMr14ydo0cusd-52" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="5729" y="1737.5" width="9.999999999999963" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1wAO9gfyMr14ydo0cusd-53" value="&lt;b&gt;返回插入提交记录失败&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="5545" y="1921" width="160" height="30" as="geometry" />
