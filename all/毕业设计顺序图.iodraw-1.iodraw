@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uJorhv5uKUPzMu0_b9UY">
-    <mxGraphModel dx="3326" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3944" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4491,19 +4491,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="11262.5" y="1825.49" as="sourcePoint" />
             <mxPoint x="11264.5" y="1804.6584171042762" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-831" value="&lt;b&gt;生成AI提问&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="11117.5" y="1899.33" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-832" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;width=0.09302325581395349;endSize=2.7430420711974115;endWidth=8.472943478588094;entryX=1.038;entryY=0.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11083.5" y="1874.79" as="sourcePoint" />
-            <mxPoint x="11084.5" y="1949.79" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="11124.5" y="1874.79" />
-              <mxPoint x="11124.5" y="1949.79" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-833" value="&lt;b&gt;插入对话消息&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
