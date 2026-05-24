@@ -4229,16 +4229,16 @@
             <mxPoint x="9960" y="2021" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-759" value="&lt;b&gt;异步评估回答&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="9763" y="1875" width="110" height="30" as="geometry" />
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-759" value="&lt;b&gt;生成AI回复&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="9755" y="2064" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-760" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;width=0.09302325581395349;endSize=2.7430420711974115;endWidth=8.472943478588094;entryX=1.038;entryY=0.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="9730" y="1849.82" as="sourcePoint" />
-            <mxPoint x="9731" y="1924.82" as="targetPoint" />
+            <mxPoint x="9721" y="2039.46" as="sourcePoint" />
+            <mxPoint x="9722" y="2114.46" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="9771" y="1849.82" />
-              <mxPoint x="9771" y="1924.82" />
+              <mxPoint x="9762" y="2039.46" />
+              <mxPoint x="9762" y="2114.46" />
             </Array>
           </mxGeometry>
         </mxCell>
