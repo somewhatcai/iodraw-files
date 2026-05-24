@@ -3212,10 +3212,20 @@
         <mxCell id="ohtbflyH-ZS-ryOssVOq-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;表示层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5180" y="2415.01" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ohtbflyH-ZS-ryOssVOq-74" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.006;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-74" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ohtbflyH-ZS-ryOssVOq-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5693.25" y="2663.45" as="sourcePoint" />
             <mxPoint x="5784.861000000001" y="2662.5049999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-75" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ohtbflyH-ZS-ryOssVOq-74">
+          <mxGeometry x="0.1789" relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-76" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ohtbflyH-ZS-ryOssVOq-74">
+          <mxGeometry x="-0.0498" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
