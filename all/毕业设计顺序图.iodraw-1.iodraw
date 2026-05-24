@@ -3508,7 +3508,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-163" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="7499" y="2280" width="20" height="430" as="geometry" />
+          <mxGeometry x="7499" y="2280" width="20" height="480" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-166" value="&lt;b&gt;返回对应笔试记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="7140" y="2310" width="140" height="30" as="geometry" />
