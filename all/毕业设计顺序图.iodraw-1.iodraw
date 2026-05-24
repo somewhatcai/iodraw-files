@@ -3097,7 +3097,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4990" y="2450" width="420" height="410" as="geometry" />
+          <mxGeometry x="5327.5" y="2440" width="420" height="410" as="geometry" />
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5023.5" y="2481.25" width="146.5" height="347.5" as="geometry" />
@@ -3116,24 +3116,6 @@
         </mxCell>
         <mxCell id="ohtbflyH-ZS-ryOssVOq-13" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Monaco&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Editor&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5043.610000000001" y="2755" width="106.28" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ohtbflyH-ZS-ryOssVOq-18" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Vue Router&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5230.11" y="2533.75" width="106.06" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ohtbflyH-ZS-ryOssVOq-19" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Axios&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5230.110000000001" y="2593.75" width="106.28" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ohtbflyH-ZS-ryOssVOq-20" value="&lt;span style=&quot;white-space: nowrap; font-size: 14px;&quot;&gt;&lt;b&gt;Ant Design&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;&amp;nbsp;Vue&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5230.110000000001" y="2653.75" width="106.28" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ohtbflyH-ZS-ryOssVOq-21" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;ECharts&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5230.110000000001" y="2713.75" width="106.28" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ohtbflyH-ZS-ryOssVOq-22" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Monaco&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Editor&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5230.110000000001" y="2773.75" width="106.28" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ohtbflyH-ZS-ryOssVOq-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5210" y="2500" width="146.5" height="347.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
