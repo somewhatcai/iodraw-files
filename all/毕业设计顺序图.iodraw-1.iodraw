@@ -3277,8 +3277,8 @@
         <mxCell id="ohtbflyH-ZS-ryOssVOq-119" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;数据库&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="6350.889999999999" y="2430.04" width="72.26" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ohtbflyH-ZS-ryOssVOq-123" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="5934" y="2340" width="101" height="60" as="geometry" />
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-123" value="&lt;b style=&quot;font-size: 14px; white-space: nowrap;&quot;&gt;UserMapper&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="6333.99" y="2467.19" width="101" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
