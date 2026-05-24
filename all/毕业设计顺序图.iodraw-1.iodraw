@@ -2963,12 +2963,12 @@
         </mxCell>
         <mxCell id="v4qyYNFwGZ69N7b7th9j-10" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5740" y="1436" as="sourcePoint" />
-            <mxPoint x="6100" y="1436" as="targetPoint" />
+            <mxPoint x="5734" y="1638.75" as="sourcePoint" />
+            <mxPoint x="6094" y="1638.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v4qyYNFwGZ69N7b7th9j-11" value="&lt;b&gt;获取笔试记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="5757.5" y="1401" width="110" height="30" as="geometry" />
+          <mxGeometry x="5751.5" y="1603.75" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
