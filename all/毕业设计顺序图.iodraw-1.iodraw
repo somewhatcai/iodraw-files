@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uJorhv5uKUPzMu0_b9UY">
-    <mxGraphModel dx="5912" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8657" dy="2700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3032,6 +3032,9 @@
         <mxCell id="v4qyYNFwGZ69N7b7th9j-69" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" parent="v4qyYNFwGZ69N7b7th9j-67" vertex="1">
           <mxGeometry x="-1.4210854715202004e-14" width="9.997222993612885" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v4qyYNFwGZ69N7b7th9j-70" target="wdnG9YadhtyFBK6v6IkF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v4qyYNFwGZ69N7b7th9j-70" value="&lt;b&gt;笔试状态错误&lt;/b&gt;&lt;b&gt;提示&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="4962" y="1860" width="140" height="30" as="geometry" />
         </mxCell>
@@ -3098,6 +3101,9 @@
             <mxPoint x="5718.83" y="1875" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-3" value="&lt;b&gt;笔试状态错误&lt;/b&gt;&lt;b&gt;提示&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="8640" y="3015" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
