@@ -4410,8 +4410,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-802" value="&lt;b&gt;提交用户回答&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="10902.5" y="1529.96" width="110" height="30" as="geometry" />
+        <mxCell id="wdnG9YadhtyFBK6v6IkF-802" value="&lt;b&gt;结束面试&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="10917.5" y="1529.96" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-803" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;exitX=1;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -4442,22 +4442,6 @@
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-809" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="11262.5" y="1958.5" width="20" height="275.46" as="geometry" />
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-810" value="&lt;b&gt;对话轮数+1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="11120.5" y="1653.46" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-811" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;width=0.09302325581395349;endSize=2.7430420711974115;endWidth=8.472943478588094;entryX=1.038;entryY=0.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11082.5" y="1631.46" as="sourcePoint" />
-            <mxPoint x="11083.5" y="1706.46" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="11123.5" y="1631.46" />
-              <mxPoint x="11123.5" y="1706.46" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wdnG9YadhtyFBK6v6IkF-812" value="&lt;b&gt;插入对话信息&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="11113.32" y="1713.96" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wdnG9YadhtyFBK6v6IkF-813" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=14;exitX=1;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.088;entryY=0.166;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
