@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uJorhv5uKUPzMu0_b9UY">
-    <mxGraphModel dx="3708" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4594" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3242,6 +3242,65 @@
           <mxGeometry x="-0.0706" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-83" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="4810" y="2440" width="475.4899999999998" height="465.0100000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry width="475.49" height="465.01" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry x="287.8900000000003" y="35.64000000000033" width="146.5" height="408.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry x="43.39000000000033" y="35.64000000000033" width="146.5" height="408.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-87" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Vue Router&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry x="63.60999999999967" y="100.01000000000022" width="106.06" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-88" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Axios&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry x="63.61000000000058" y="160.01000000000022" width="106.28" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-89" value="&lt;span style=&quot;white-space: nowrap; font-size: 14px;&quot;&gt;&lt;b&gt;Ant Design&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;&amp;nbsp;Vue&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry x="63.61000000000058" y="220.01000000000022" width="106.28" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-90" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;ECharts&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry x="63.61000000000058" y="280.0100000000002" width="106.28" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-91" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Monaco&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Editor&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry x="63.61000000000058" y="340.0100000000002" width="106.28" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-92" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;UserController&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry x="308" y="76.88000000000011" width="106.06" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-93" value="&lt;b style=&quot;font-size: 14px; white-space: nowrap;&quot;&gt;Question&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px; white-space: nowrap;&quot;&gt;Controller&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry x="308.0000000000009" y="136.8800000000001" width="106.28" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-94" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Post&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial; white-space: nowrap; font-size: 14px;&quot;&gt;Controller&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry x="308.0000000000009" y="196.8800000000001" width="106.28" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-95" value="&lt;b style=&quot;white-space: nowrap; background-color: initial; font-size: 14px;&quot;&gt;MockExam&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;white-space: nowrap; background-color: initial; font-size: 14px;&quot;&gt;Controller&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry x="308.0000000000009" y="256.8800000000001" width="106.28" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-96" value="&lt;b style=&quot;white-space: nowrap; background-color: initial; font-size: 14px;&quot;&gt;MockInterview&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;white-space: nowrap; background-color: initial; font-size: 14px;&quot;&gt;Controller&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry x="308.0000000000009" y="316.8800000000001" width="106.28" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-97" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="240.01000000000022" as="sourcePoint" />
+            <mxPoint x="288" y="240.01000000000022" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-98" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;发送请求&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ohtbflyH-ZS-ryOssVOq-97">
+          <mxGeometry x="-0.1078" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-99" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;...&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry x="308.0000000000009" y="381.8800000000001" width="106.28" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ohtbflyH-ZS-ryOssVOq-100" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;表示层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ohtbflyH-ZS-ryOssVOq-83">
+          <mxGeometry x="200" y="0.020000000000436557" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
