@@ -395,7 +395,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-193" value="帖子ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1182.5" y="-655" width="75" height="30" as="geometry" />
+          <mxGeometry x="1187.5" y="-655" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7I42BybfFWy3jq2Fq1go-195" value="评论内容" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1192.25" y="-695" width="75" height="30" as="geometry" />
@@ -1784,8 +1784,8 @@
         </mxCell>
         <mxCell id="ltpc-JYa7qOM7b7h0ydn-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1403" y="-630" as="sourcePoint" />
-            <mxPoint x="1433" y="-630" as="targetPoint" />
+            <mxPoint x="1262.5" y="-640.24" as="sourcePoint" />
+            <mxPoint x="1292.5" y="-640.24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
