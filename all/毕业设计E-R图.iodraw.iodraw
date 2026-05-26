@@ -1789,7 +1789,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ltpc-JYa7qOM7b7h0ydn-1" value="题目ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-700" width="75" height="30" as="geometry" />
+          <mxGeometry x="750" y="-700" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
