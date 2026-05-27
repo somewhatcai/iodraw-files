@@ -8,7 +8,7 @@
           <mxGeometry x="280" y="30" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vy6cYYKhdbDJjBzeNrkY-4" value="前台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="230" width="90" height="40" as="geometry" />
+          <mxGeometry x="190" y="110" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vy6cYYKhdbDJjBzeNrkY-5" value="后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="110" width="90" height="40" as="geometry" />
@@ -33,8 +33,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vy6cYYKhdbDJjBzeNrkY-14" value="前台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="120" width="90" height="40" as="geometry" />
+        <mxCell id="vy6cYYKhdbDJjBzeNrkY-15" value="前台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
