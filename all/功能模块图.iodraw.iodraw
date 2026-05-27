@@ -166,9 +166,6 @@
         <mxCell id="GaiE-PUR3pDe5jxNyH4r-3" value="表示层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="772.5" y="100" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GaiE-PUR3pDe5jxNyH4r-4" value="数据访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="210" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="GaiE-PUR3pDe5jxNyH4r-5" value="数据访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="772.5" y="220" width="90" height="40" as="geometry" />
         </mxCell>
